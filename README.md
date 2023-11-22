@@ -21,10 +21,11 @@ Die Verwendung der Software ist sehr einfach. Folgen Sie einfach diesen Schritte
 3. Bearbeiten Sie die Datei nach Bedarf.
 4. Klicken Sie auf die Schaltfläche "Speichern", um Ihre Änderungen zu speichern.
 
-| Spalte 1 | Spalte 2 | Spalte 3 |
+| Nr. | Typ | Anzahl |
 |----------|----------|----------|
-| Inhalt   | Inhalt   | Inhalt   |
-| Inhalt   | Inhalt   | Inhalt   |
+| 1 | A5C   | 33   |
+| 2 | 3B   | 634   |
+| 3 | 5C | 325
 
 
 ![Landschaft](https://cdn.dribbble.com/users/31864/screenshots/3666062/free_logos_dribbble_ph.jpg?resize=800x600&vertical=center)
