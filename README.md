@@ -16,6 +16,8 @@ Die Installation der Software ist sehr einfach. Folgen Sie einfach diesen Schrit
 
 Die Verwendung der Software ist sehr einfach. Folgen Sie einfach diesen Schritten:
 
+### unterkategorie
+
 1. Starten Sie die Software durch Doppelklick auf das Symbol auf Ihrem Desktop.
 2. Klicken Sie auf die Schaltfläche "Datei öffnen" und wählen Sie die Datei aus, die Sie bearbeiten möchten.
 3. Bearbeiten Sie die Datei nach Bedarf.
