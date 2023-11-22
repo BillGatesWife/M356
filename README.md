@@ -21,6 +21,15 @@ Die Verwendung der Software ist sehr einfach. Folgen Sie einfach diesen Schritte
 3. Bearbeiten Sie die Datei nach Bedarf.
 4. Klicken Sie auf die Schaltfläche "Speichern", um Ihre Änderungen zu speichern.
 
+| Spalte 1 | Spalte 2 | Spalte 3 |
+|----------|----------|----------|
+| Inhalt   | Inhalt   | Inhalt   |
+| Inhalt   | Inhalt   | Inhalt   |
+
+
+![Landschaft](https://cdn.dribbble.com/users/31864/screenshots/3666062/free_logos_dribbble_ph.jpg?resize=800x600&vertical=center)
+
+
 ## Fehlerbehebung
 
 Wenn Sie Probleme mit der Software haben, versuchen Sie bitte folgende Schritte:
